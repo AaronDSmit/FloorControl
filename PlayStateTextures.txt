@@ -1,0 +1,8 @@
+background ./textures/background.png
+elevator ./textures/elevator.png
+floorOpen ./textures/floor_door_open.png
+floorClosed ./textures/floor_door_closed.png
+blue ./textures/PersonBlue.png
+orange ./textures/PersonOrange.png
+purple ./textures/PersonPurple.png
+yellow ./textures/PersonYellow.png
